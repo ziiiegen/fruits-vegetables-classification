@@ -70,6 +70,6 @@
 ## 🖼️ Пример работы
 | Изображение | Результат модели | Уверенность |
 | :---: | :---: | :---: |
-| <img src="data/test_images/test_images/0a0e9bb70837496c8248508ea69eacd5.jpg" width="128"> | **Кабачки** | 64.38% |
-| <img src="data/test_images/test_images/0d889324c8d04cd8ac7a1dd21bb6191c.jpg" width="128"> | **Картофель** | 80.82% |
-| <img src="data/test_images/test_images/b6b6da60e22c4a65b13cdd5b0e38cce9.jpg" width="128"> | **Яблоки красные** | 77.51% |
+| <img src="data/0a0e9bb70837496c8248508ea69eacd5.jpg" width="128"> | **Кабачки** | 64.38% |
+| <img src="data/0d889324c8d04cd8ac7a1dd21bb6191c.jpg" width="128"> | **Картофель** | 80.82% |
+| <img src="data/b6b6da60e22c4a65b13cdd5b0e38cce9.jpg" width="128"> | **Яблоки красные** | 77.51% |
