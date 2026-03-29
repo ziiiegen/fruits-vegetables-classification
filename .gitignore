@@ -1,6 +1,7 @@
 .venv
 checkpoints/
-data/
+data/test_images
+data/train
 models/*.pth
 __pycache__/
 *.zip
