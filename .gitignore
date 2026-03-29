@@ -1,0 +1,6 @@
+.venv
+checkpoints/
+data/
+models/*.pth
+__pycache__/
+*.zip
